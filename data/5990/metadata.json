@@ -1,0 +1,6 @@
+{
+    "original_script": "A: 몇 호선을 타야 하죠? B: 1호선을 타세요.",
+    "expanded_script": "에이. 몇 호선을 타야 하죠? 비. 일 호선을 타세요.",
+    "decomposed_script": "에이. 몇 호선을 타야 하죠? 비. 일 호선을 타세요.",
+    "english_translation": "A: Which line should I take? B: Take line number one."
+}
