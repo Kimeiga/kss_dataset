@@ -1,0 +1,6 @@
+{
+    "original_script": "A: 생일이 몇 월 며칠이세요? B: 9월 28일이에요.",
+    "expanded_script": "에이. 생일이 몇 월 며칠이세요? 비. 구 월 이십팔 일이에요.",
+    "decomposed_script": "에이. 생일이 몇 월 며칠이세요? 비. 구 월 이십팔 일이에요.",
+    "english_translation": "A: When is your birthday? B: September 28th."
+}

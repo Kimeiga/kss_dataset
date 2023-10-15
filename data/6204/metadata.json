@@ -1,0 +1,6 @@
+{
+    "original_script": "A: 아기가 몇 살이에요? B: 11개월 됐어요.",
+    "expanded_script": "에이. 아기가 몇 살이에요? 비. 십일 개월 됐어요.",
+    "decomposed_script": "에이. 아기가 몇 살이에요? 비. 십일 개월 됐어요.",
+    "english_translation": "A: How old is your baby? B: She is 11 months old."
+}

@@ -1,0 +1,6 @@
+{
+    "original_script": "이 상자는 가로 30, 세로 50, 높이 20센티다.",
+    "expanded_script": "이 상자는 가로 삼십, 세로 오십, 높이 이십 센티다.",
+    "decomposed_script": "이 상자는 가로 삼십, 세로 오십, 높이 이십 센티다.",
+    "english_translation": "This box is 30 centimeters wide, 50 centimeters long, and 20 centimeters high."
+}

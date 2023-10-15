@@ -1,0 +1,6 @@
+{
+    "original_script": "A: 오늘은 좀 어때요? B: 지난주보다는 훨씬 좋아.",
+    "expanded_script": "에이. 오늘은 좀 어때요? 비. 지난주보다는 훨씬 좋아.",
+    "decomposed_script": "에이. 오늘은 좀 어때요? 비. 지난주보다는 훨씬 좋아.",
+    "english_translation": "A: How are you today? B: Much better than last week."
+}

@@ -1,0 +1,6 @@
+{
+    "original_script": "A: 책상은 어떤 모양이에요? B: 동그래요.",
+    "expanded_script": "에이. 책상은 어떤 모양이에요? 비. 동그래요.",
+    "decomposed_script": "에이. 책상은 어떤 모양이에요? 비. 동그래요.",
+    "english_translation": "A: What shape is the desk? B: It's round."
+}

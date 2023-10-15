@@ -1,0 +1,6 @@
+{
+    "original_script": "이 수의 십의 자리 숫자는 일의 자리 숫자의 세 배이다. 각 숫자의 합은 8이다. 이 수는?",
+    "expanded_script": "이 수의 십의 자리 숫자는 일의 자리 숫자의 세 배이다. 각 숫자의 합은 팔이다. 이 수는?",
+    "decomposed_script": "이 수의 십의 자리 숫자는 일의 자리 숫자의 세 배이다. 각 숫자의 합은 팔이다. 이 수는?",
+    "english_translation": "The tens digit of this number is three times the ones digit. The sum of the digits in the number is 8. What is the number?"
+}
