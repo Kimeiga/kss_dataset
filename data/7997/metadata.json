@@ -1,0 +1,6 @@
+{
+    "original_script": "기본 한 시간에 천 원이고 이후 10분마다 500원이 추가됩니다.",
+    "expanded_script": "기본 한 시간에 천 원이고 이후 십 분마다 오백 원이 추가됩니다.",
+    "decomposed_script": "기본 한 시간에 천 원이고 이후 십 분마다 오백 원이 추가됩니다.",
+    "english_translation": "It's 1,000 won for the first an hour and 500 won for every additional 10 minutes."
+}
