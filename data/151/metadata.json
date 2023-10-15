@@ -1,0 +1,6 @@
+{
+    "original_script": "이 기차는 부산을 3시에 출발합니다.",
+    "expanded_script": "이 기차는 부산을 세 시에 출발합니다.",
+    "decomposed_script": "이 기차는 부산을 세 시에 출발합니다.",
+    "english_translation": "This train will leave Busan at 3 o'clock."
+}
