@@ -1,0 +1,6 @@
+{
+    "original_script": "A: 가격이 내렸어요? B: 네. 올해부터 가격을 1000원 내렸어요.",
+    "expanded_script": "에이. 가격이 내렸어요? 비. 네. 올해부터 가격을 천 원 내렸어요.",
+    "decomposed_script": "에이. 가격이 내렸어요? 비. 네. 올해부터 가격을 천 원 내렸어요.",
+    "english_translation": "Has the price gone down? - Yes. We dropped the price by a thousand won."
+}

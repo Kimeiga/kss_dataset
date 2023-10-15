@@ -1,0 +1,6 @@
+{
+    "original_script": "A: 내 열쇠 어디 갔지? B: 침대 위는 봤어?",
+    "expanded_script": "에이. 내 열쇠 어디 갔지? 비. 침대 위는 봤어?",
+    "decomposed_script": "에이. 내 열쇠 어디 갔지? 비. 침대 위는 봤어?",
+    "english_translation": "A: Where is my key? B: Did you check on the bed?"
+}

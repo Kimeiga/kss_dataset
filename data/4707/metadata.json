@@ -1,0 +1,6 @@
+{
+    "original_script": "A: 몇 학번이세요? B: 98학번입니다.",
+    "expanded_script": "에이. 몇 학번이세요? 비. 구팔 학번입니다.",
+    "decomposed_script": "에이. 몇 학번이세요? 비. 구팔 학번입니다.",
+    "english_translation": "A: When did you start college? B: In '98."
+}

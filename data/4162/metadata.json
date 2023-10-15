@@ -1,0 +1,6 @@
+{
+    "original_script": "A: 비닐봉지 필요하세요? B: 아니요, 바구니 가져왔어요.",
+    "expanded_script": "에이. 비닐봉지 필요하세요? 비. 아니요, 바구니 가져왔어요.",
+    "decomposed_script": "에이. 비닐봉지 필요하세요? 비. 아니요, 바구니 가져왔어요.",
+    "english_translation": "A: Do you need a plastic bag? B: No, I brought a basket."
+}
