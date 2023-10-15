@@ -1,0 +1,6 @@
+{
+    "original_script": "진료 시간은 오전 10시에서 오후 5시입니다.",
+    "expanded_script": "진료 시간은 오전 열 시에서 오후 다섯 시입니다.",
+    "decomposed_script": "진료 시간은 오전 열 시에서 오후 다섯 시입니다.",
+    "english_translation": "Office hours are from 10 a.m. to 5 p.m."
+}
