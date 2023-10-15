@@ -1,0 +1,6 @@
+{
+    "original_script": "이 제품은 현재 세일해서 20만 원에 판매되고 있습니다.",
+    "expanded_script": "이 제품은 현재 세일해서 이십만 원에 판매되고 있습니다.",
+    "decomposed_script": "이 제품은 현재 세일해서 이십만 원에 판매되고 있습니다.",
+    "english_translation": "This product is on sale for 200,000 won."
+}

@@ -1,0 +1,6 @@
+{
+    "original_script": "내일은 기온이 2도 내지 3도 오르겠습니다.",
+    "expanded_script": "내일은 기온이 이 도 내지 삼 도 오르겠습니다.",
+    "decomposed_script": "내일은 기온이 이 도 내지 삼 도 오르겠습니다.",
+    "english_translation": "Temperature will rise by two to three degrees tomorrow."
+}
